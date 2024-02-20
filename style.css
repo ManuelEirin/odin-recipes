@@ -1,0 +1,54 @@
+* {
+    background-color:aqua;
+}
+/* 
+div {
+    color:blueviolet
+} */
+
+.alert-text {
+    color:orangered
+}
+
+#title {
+    background-color: rebeccapurple;
+}
+
+.read 
+.unread {
+    color: white;
+    background-color: black;
+}
+
+/* .unread {
+    color: white;
+    background-color: black;
+} */
+
+.subsection .header {
+    color: red;
+}
+
+.subsection#preview {
+    color: blue;
+}
+
+.ancestor .contents {
+    color: yellowgreen;
+  }
+
+
+  /* p { */
+    /* hex example: */
+    /* color: #1100ff;
+  }
+  
+  p { */
+    /* rgb example: */
+    /* color: rgb(100, 0, 127);
+  }
+   */
+  /* p { */
+    /* hsl example: */
+    /* color: hsl(15, 82%, 56%);
+  } */
